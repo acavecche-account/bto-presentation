@@ -1,0 +1,13 @@
+{
+  "name": "bto-presentation",
+  "private": true,
+  "scripts": {
+    "build": "slidev build --base /bto-presentation/",
+    "dev": "slidev --open",
+    "export": "slidev export"
+  },
+  "dependencies": {
+    "@slidev/cli": "^0.50.0",
+    "@slidev/theme-default": "latest"
+  }
+}
