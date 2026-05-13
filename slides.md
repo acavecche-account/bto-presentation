@@ -160,18 +160,8 @@ fonts:
   line-height: 1.5;
 }
 
-@keyframes spin { from { transform: rotate(0deg); } to { transform: rotate(360deg); } }
 </style>
 
----
-layout: none
----
-
-<IntroAnimation />
-
----
-layout: cover
----
 
 <div class="absolute inset-0 flex flex-col justify-between p-16">
   <div class="tag">Confidential · 2026</div>
@@ -276,8 +266,6 @@ layout: cover
         → Think: zoom out to see the $300B global market. Zoom in and land on a YouTuber uploading their first screenplay.
       </div>
     </div>
-
-    <!-- VIDEO PLACEHOLDER -->
     <div style="border: 1px solid #2a2a2a; aspect-ratio: 16/9; display: flex; align-items: center; justify-content: center; flex-direction: column; gap: 0.75rem; background: #0a0a0a;">
       <div style="font-size: 2rem;">▶</div>
       <div class="tag">Insert animation / video here</div>
@@ -345,8 +333,6 @@ layout: cover
         </div>
       </div>
     </div>
-
-    <!-- PRODUCT DEMO PLACEHOLDER -->
     <div style="display: flex; flex-direction: column; gap: 0.75rem;">
       <div style="border: 1px solid #2a2a2a; aspect-ratio: 16/10; display: flex; align-items: center; justify-content: center; flex-direction: column; gap: 0.5rem; background: #050505;">
         <div style="font-size: 1.5rem;">💻</div>
@@ -462,7 +448,6 @@ layout: cover
   <div style="font-size: 2rem; font-weight: 800; letter-spacing: -0.02em; margin-bottom: 2rem;">See it work.</div>
 
   <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 1.5rem;">
-    <!-- Main demo video -->
     <div style="aspect-ratio: 16/9; border: 1px solid #2a2a2a; background: #050505; display: flex; align-items: center; justify-content: center; flex-direction: column; gap: 0.75rem; grid-column: span 2;">
       <div style="font-size: 2rem;">▶</div>
       <div class="tag">Insert primary demo video here</div>
