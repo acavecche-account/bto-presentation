@@ -1,6 +1,6 @@
 ---
 theme: default
-title: BTO — Boil the Ocean
+title: BTO â Boil the Ocean
 background: '#000'
 class: text-white
 highlighter: shiki
@@ -163,7 +163,6 @@ fonts:
 @keyframes spin { from { transform: rotate(0deg); } to { transform: rotate(360deg); } }
 </style>
 
-<!-- SLIDE 0: INTRO ANIMATION -->
 ---
 layout: none
 ---
@@ -171,14 +170,11 @@ layout: none
 <IntroAnimation />
 
 ---
-
-<!-- SLIDE 1: COVER -->
----
 layout: cover
 ---
 
 <div class="absolute inset-0 flex flex-col justify-between p-16">
-  <div class="tag">Confidential · 2026</div>
+  <div class="tag">Confidential Â· 2026</div>
 
   <div>
     <div style="font-size: 5rem; font-weight: 900; letter-spacing: -0.04em; line-height: 0.9;">
@@ -186,7 +182,7 @@ layout: cover
     </div>
     <div class="rule" style="max-width: 200px; margin-top: 2rem;"/>
     <div style="font-size: 1rem; color: #888; margin-top: 1.5rem; max-width: 480px; line-height: 1.6;">
-      A predictive intelligence platform that tells you what content wins — before production begins.
+      A predictive intelligence platform that tells you what content wins â before production begins.
     </div>
   </div>
 
@@ -208,9 +204,6 @@ layout: cover
 
 ---
 
-<!-- SLIDE 2: THE PROBLEM — ECOSYSTEM / SUPPLY CHAIN -->
----
-
 <div class="p-12">
   <div class="tag" style="margin-bottom: 2rem;">The Problem</div>
   <div style="font-size: 2.2rem; font-weight: 800; letter-spacing: -0.02em; line-height: 1.1; max-width: 640px; margin-bottom: 3rem;">
@@ -221,27 +214,27 @@ layout: cover
     <div class="ecosystem-node">
       Writer / Creator
     </div>
-    <div class="arrow-right">→</div>
+    <div class="arrow-right">â</div>
     <div class="ecosystem-node">
       Agent / Manager
     </div>
-    <div class="arrow-right">→</div>
+    <div class="arrow-right">â</div>
     <div class="ecosystem-node">
       Studio / Network
     </div>
-    <div class="arrow-right">→</div>
+    <div class="arrow-right">â</div>
     <div class="ecosystem-node">
       Greenlight
     </div>
-    <div class="arrow-right">→</div>
+    <div class="arrow-right">â</div>
     <div class="ecosystem-node">
       Production
     </div>
-    <div class="arrow-right">→</div>
+    <div class="arrow-right">â</div>
     <div class="ecosystem-node">
       Distribution
     </div>
-    <div class="arrow-right">→</div>
+    <div class="arrow-right">â</div>
     <div class="ecosystem-node highlight">
       Audience
     </div>
@@ -260,14 +253,11 @@ layout: cover
     </div>
     <div>
       <div style="font-weight: 700; margin-bottom: 0.4rem;">Billions wasted annually</div>
-      <div style="font-size: 0.82rem; color: #888; line-height: 1.5;">Studios greenlight on gut feel. Most projects underperform. The data to prevent this exists — it just isn't being used.</div>
+      <div style="font-size: 0.82rem; color: #888; line-height: 1.5;">Studios greenlight on gut feel. Most projects underperform. The data to prevent this exists â it just isn't being used.</div>
     </div>
   </div>
 </div>
 
----
-
-<!-- SLIDE 3: THE VISION — ZOOM OUT TO ZOOM IN -->
 ---
 
 <div class="p-12">
@@ -279,27 +269,24 @@ layout: cover
         From global content spend<br/>to one creator's screen.
       </div>
       <div style="font-size: 0.88rem; color: #aaa; line-height: 1.7;">
-        Every year, studios and streamers spend hundreds of billions on content. Most of that decision-making is intuition. BTO brings the predictive intelligence of Wall Street quant desks to the greenlight table — starting with a single script, horror films, and the streamers who buy them.
+        Every year, studios and streamers spend hundreds of billions on content. Most of that decision-making is intuition. BTO brings the predictive intelligence of Wall Street quant desks to the greenlight table â starting with a single script, horror films, and the streamers who buy them.
       </div>
       <div class="rule" style="max-width: 200px;"/>
       <div style="font-size: 0.8rem; color: #666; font-style: italic;">
-        → Think: zoom out to see the $300B global market. Zoom in and land on a YouTuber uploading their first screenplay.
+        â Think: zoom out to see the $300B global market. Zoom in and land on a YouTuber uploading their first screenplay.
       </div>
     </div>
 
     <!-- VIDEO PLACEHOLDER -->
     <div style="border: 1px solid #2a2a2a; aspect-ratio: 16/9; display: flex; align-items: center; justify-content: center; flex-direction: column; gap: 0.75rem; background: #0a0a0a;">
-      <div style="font-size: 2rem;">▶</div>
+      <div style="font-size: 2rem;">â¶</div>
       <div class="tag">Insert animation / video here</div>
-      <div style="font-size: 0.75rem; color: #555; text-align: center; padding: 0 2rem; line-height: 1.5;">World → country → city → bedroom → laptop screen</div>
+      <div style="font-size: 0.75rem; color: #555; text-align: center; padding: 0 2rem; line-height: 1.5;">World â country â city â bedroom â laptop screen</div>
     </div>
 
   </div>
 </div>
 
----
-
-<!-- SLIDE 4: THE PRODUCT SUITE -->
 ---
 
 <div class="p-12">
@@ -332,9 +319,6 @@ layout: cover
 
 ---
 
-<!-- SLIDE 5: THE WEDGE — BTO PROTOTYPE -->
----
-
 <div class="p-12">
   <div class="tag" style="margin-bottom: 2rem;">Wedge Product</div>
   <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 4rem;">
@@ -344,20 +328,20 @@ layout: cover
         Start here:<br/>Horror scripts.<br/>Six platforms.
       </div>
       <div style="font-size: 0.88rem; color: #aaa; line-height: 1.7; margin-bottom: 1.5rem;">
-        The BTO prototype ingests horror scripts and produces a full predictive analysis — taxonomy, comp sets, financial outcomes, and advisor-grade wisdom — for each major buyer.
+        The BTO prototype ingests horror scripts and produces a full predictive analysis â taxonomy, comp sets, financial outcomes, and advisor-grade wisdom â for each major buyer.
       </div>
       <div style="display: flex; flex-direction: column; gap: 0.75rem;">
         <div style="display: flex; gap: 0.75rem; align-items: center;">
           <div style="width: 6px; height: 6px; background: #fff; border-radius: 50%;"></div>
-          <div style="font-size: 0.85rem;">Netflix · Amazon · Apple</div>
+          <div style="font-size: 0.85rem;">Netflix Â· Amazon Â· Apple</div>
         </div>
         <div style="display: flex; gap: 0.75rem; align-items: center;">
           <div style="width: 6px; height: 6px; background: #fff; border-radius: 50%;"></div>
-          <div style="font-size: 0.85rem;">WB · Sony · Paramount</div>
+          <div style="font-size: 0.85rem;">WB Â· Sony Â· Paramount</div>
         </div>
         <div style="display: flex; gap: 0.75rem; align-items: center;">
           <div style="width: 6px; height: 6px; background: #444; border-radius: 50%;"></div>
-          <div style="font-size: 0.85rem; color: #666;">HBO · Peacock · Par+ (discuss)</div>
+          <div style="font-size: 0.85rem; color: #666;">HBO Â· Peacock Â· Par+ (discuss)</div>
         </div>
       </div>
     </div>
@@ -365,7 +349,7 @@ layout: cover
     <!-- PRODUCT DEMO PLACEHOLDER -->
     <div style="display: flex; flex-direction: column; gap: 0.75rem;">
       <div style="border: 1px solid #2a2a2a; aspect-ratio: 16/10; display: flex; align-items: center; justify-content: center; flex-direction: column; gap: 0.5rem; background: #050505;">
-        <div style="font-size: 1.5rem;">💻</div>
+        <div style="font-size: 1.5rem;">ð»</div>
         <div class="tag">Insert product demo / screen recording</div>
         <div style="font-size: 0.75rem; color: #555;">Laptop mockup scrolling through BTO output</div>
       </div>
@@ -378,9 +362,6 @@ layout: cover
   </div>
 </div>
 
----
-
-<!-- SLIDE 6: EARLY CUSTOMERS -->
 ---
 
 <div class="p-12">
@@ -406,7 +387,7 @@ layout: cover
   </div>
 
   <div style="background: #0a0a0a; border: 1px solid #2a2a2a; padding: 1.25rem; display: flex; align-items: center; gap: 2rem;">
-    <div style="font-size: 0.8rem; color: #666; text-transform: uppercase; letter-spacing: 0.1em; white-space: nowrap;">Add logos / names here →</div>
+    <div style="font-size: 0.8rem; color: #666; text-transform: uppercase; letter-spacing: 0.1em; white-space: nowrap;">Add logos / names here â</div>
     <div style="display: flex; gap: 2rem; align-items: center; flex-wrap: wrap;">
       <div style="color: #444; font-size: 0.85rem; font-style: italic;">[ Partner / Customer 1 ]</div>
       <div style="color: #444; font-size: 0.85rem; font-style: italic;">[ Partner / Customer 2 ]</div>
@@ -418,9 +399,6 @@ layout: cover
 
 ---
 
-<!-- SLIDE 7: MOAT / COMPETITIVE ADVANTAGE -->
----
-
 <div class="p-12">
   <div class="tag" style="margin-bottom: 2rem;">Competitive Advantage</div>
   <div style="font-size: 2rem; font-weight: 800; letter-spacing: -0.02em; margin-bottom: 0.5rem;">What we need to become<br/>the #1 intelligence layer<br/>in entertainment.</div>
@@ -430,21 +408,21 @@ layout: cover
   <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 0;">
     <div>
       <div class="moat-item">
-        <div class="icon">◼</div>
+        <div class="icon">â¼</div>
         <div class="text">
           <h4>Proprietary Data Flywheel</h4>
           <p>Every script processed makes the model smarter. Comp sets get tighter. Predictions get sharper. Competitors can't replicate the training set.</p>
         </div>
       </div>
       <div class="moat-item">
-        <div class="icon">◼</div>
+        <div class="icon">â¼</div>
         <div class="text">
           <h4>Advisor Network = Ground Truth</h4>
-          <p>Our advisors are the gatekeepers. Their postmortem wisdom is baked into the model — not scraped from the internet.</p>
+          <p>Our advisors are the gatekeepers. Their postmortem wisdom is baked into the model â not scraped from the internet.</p>
         </div>
       </div>
       <div class="moat-item">
-        <div class="icon">◼</div>
+        <div class="icon">â¼</div>
         <div class="text">
           <h4>Full-Stack: Creator to Buyer</h4>
           <p>We own both sides of the market. That two-sided network is the moat. Each side makes the other more valuable.</p>
@@ -453,21 +431,21 @@ layout: cover
     </div>
     <div style="padding-left: 2.5rem; border-left: 1px solid #1a1a1a;">
       <div class="moat-item">
-        <div class="icon">◼</div>
+        <div class="icon">â¼</div>
         <div class="text">
           <h4>MRC's 20-Year Film/TV Library</h4>
-          <p>House of Cards, Knives Out, Ted Lasso. Real outcomes, real data, real comps — from titles that actually got made and distributed.</p>
+          <p>House of Cards, Knives Out, Ted Lasso. Real outcomes, real data, real comps â from titles that actually got made and distributed.</p>
         </div>
       </div>
       <div class="moat-item">
-        <div class="icon">◼</div>
+        <div class="icon">â¼</div>
         <div class="text">
           <h4>Dollars-to-Views Translation</h4>
-          <p>We map production spend to streaming viewership — a metric most studios still can't reliably calculate internally.</p>
+          <p>We map production spend to streaming viewership â a metric most studios still can't reliably calculate internally.</p>
         </div>
       </div>
       <div class="moat-item">
-        <div class="icon">◼</div>
+        <div class="icon">â¼</div>
         <div class="text">
           <h4>Genre-Deep Before Going Wide</h4>
           <p>Horror first means we dominate a vertical before any competitor can react. Depth beats breadth at launch.</p>
@@ -479,9 +457,6 @@ layout: cover
 
 ---
 
-<!-- SLIDE 8: TV CLIPS / DEMO MOMENT -->
----
-
 <div class="p-12">
   <div class="tag" style="margin-bottom: 2rem;">The Product in Motion</div>
   <div style="font-size: 2rem; font-weight: 800; letter-spacing: -0.02em; margin-bottom: 2rem;">See it work.</div>
@@ -489,31 +464,28 @@ layout: cover
   <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 1.5rem;">
     <!-- Main demo video -->
     <div style="aspect-ratio: 16/9; border: 1px solid #2a2a2a; background: #050505; display: flex; align-items: center; justify-content: center; flex-direction: column; gap: 0.75rem; grid-column: span 2;">
-      <div style="font-size: 2rem;">▶</div>
+      <div style="font-size: 2rem;">â¶</div>
       <div class="tag">Insert primary demo video here</div>
-      <div style="font-size: 0.75rem; color: #555;">Full product walkthrough · ~60–90 seconds</div>
+      <div style="font-size: 0.75rem; color: #555;">Full product walkthrough Â· ~60â90 seconds</div>
     </div>
   </div>
 
   <div style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 1rem; margin-top: 1rem;">
     <div style="border: 1px solid #1a1a1a; padding: 1rem; aspect-ratio: 16/9; display: flex; align-items: center; justify-content: center; flex-direction: column; gap: 0.4rem;">
-      <div style="font-size: 1rem;">▶</div>
-      <div style="font-size: 0.7rem; color: #555; text-align: center;">Script input → taxonomy output</div>
+      <div style="font-size: 1rem;">â¶</div>
+      <div style="font-size: 0.7rem; color: #555; text-align: center;">Script input â taxonomy output</div>
     </div>
     <div style="border: 1px solid #1a1a1a; padding: 1rem; aspect-ratio: 16/9; display: flex; align-items: center; justify-content: center; flex-direction: column; gap: 0.4rem;">
-      <div style="font-size: 1rem;">▶</div>
+      <div style="font-size: 1rem;">â¶</div>
       <div style="font-size: 0.7rem; color: #555; text-align: center;">Comp sets + financial model</div>
     </div>
     <div style="border: 1px solid #1a1a1a; padding: 1rem; aspect-ratio: 16/9; display: flex; align-items: center; justify-content: center; flex-direction: column; gap: 0.4rem;">
-      <div style="font-size: 1rem;">▶</div>
+      <div style="font-size: 1rem;">â¶</div>
       <div style="font-size: 0.7rem; color: #555; text-align: center;">Marketplace API demo</div>
     </div>
   </div>
 </div>
 
----
-
-<!-- SLIDE 9: THE TEAM / ADVISORS -->
 ---
 
 <div class="p-12">
